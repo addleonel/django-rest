@@ -1,5 +1,14 @@
 .vscode
 db.sqlite3
 restenv/
-*/__pycache__/
+*.log
+
+*.pot
+
+*.pyc
+
+*/*/*/__pycache__/
+
 */*/__pycache__/
+
+*/__pycache__/
